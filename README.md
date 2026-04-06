@@ -3,6 +3,9 @@
 Interactive sales analytics dashboard analyzing $203M in electronics 
 sales across brands, specifications and price segments.
 
+<img width="1071" height="926" alt="Screenshot 2026-03-30 at 10 44 10 at night" src="https://github.com/user-attachments/assets/b1799b9f-1f54-4d05-aff7-0c5d4a6ce087" />
+
+
 ## 📈 Key Metrics
 - **Total Sales:** $203,820,118.99
 - **Sales Count:** 4,428  |  **Average Price:** $1,205.06
